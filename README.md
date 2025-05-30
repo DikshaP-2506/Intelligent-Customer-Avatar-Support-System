@@ -57,11 +57,3 @@ git clone https://github.com/yourusername/AI_08_Codechamps_PS01.git
 3. Run the application
 - Open `index.html` in your web browser
 - Or use a local development server
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-
-
